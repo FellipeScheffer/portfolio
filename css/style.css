@@ -190,7 +190,3 @@ span {
     color: var(--text-color);
     box-shadow: 0 0 25px var(--main-color);
 }
-.home-content h1 {
-    font-size: 200px;
-    color: #4e1a8f;
-}

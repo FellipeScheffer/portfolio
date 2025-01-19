@@ -190,3 +190,18 @@ span {
     color: var(--text-color);
     box-shadow: 0 0 25px var(--main-color);
 }
+.typing-text #cursor-piscando {
+    display: inline-block;
+    width: 2px;
+    height: 1em;
+    background-color: var(--main-color);
+    animation: blink 1s step-end infinite;
+}
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+.typing-text #desenvolvedor-roxo {
+    color: var(--main-color);
+}

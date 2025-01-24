@@ -79,6 +79,7 @@ html::-webkit-scrollbar-thumb {
 @media (max-width:995px) {
     #menu-icon {
         display: block;
+        cursor: pointer;
     }
     .navbar {
         position: absolute;

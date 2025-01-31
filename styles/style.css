@@ -134,6 +134,10 @@ span {
     margin-bottom: 1rem;
     font-weight: 700;
 }
+.home-content #o-que-sou{
+    font-size: 4rem;
+    margin-bottom: 0px;
+}
 .home-img {
     border-radius: 50%;
 }
@@ -227,9 +231,6 @@ span {
 
 .services {
     background: var(--second-bg-color);
-}
-.heading {
-
 }
 .services-container {
     display: grid;
